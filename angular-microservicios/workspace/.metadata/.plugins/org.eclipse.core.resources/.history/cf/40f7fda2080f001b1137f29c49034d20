@@ -1,0 +1,8 @@
+package mx.com.kene.microservicios.app.cursos.controllers;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class CursoController {
+
+}

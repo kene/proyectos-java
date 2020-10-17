@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=microservicios-cursos/\/Users\/macos\/.m2\/repository\/org\/springframework\/data\/spring-data-commons\/2.3.4.RELEASE\/spring-data-commons-2.3.4.RELEASE.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-commons=/=/maven.version=/2.3.4.RELEASE=/=/maven.scope=/compile=/&lt;org.springframework.data.repository(CrudRepository.class[CrudRepository" modifiers="1537" timestamp="1602714332000"/>
+<typeInfo handle="=commons-microservicios/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;mx.com.kene.microservicios.commons.services{CommonService.java[CommonService" modifiers="513" timestamp="1602714485000"/>
+<typeInfo handle="=microservicios-cursos/\/Library\/Java\/JavaVirtualMachines\/jdk1.8.0_231.jdk\/Contents\/Home\/jre\/lib\/rt.jar=/maven.pomderived=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;javax.sql(CommonDataSource.class[CommonDataSource" modifiers="1537" timestamp="1570271994000"/>
+<typeInfo handle="=commons-microservicios/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;mx.com.kene.microservicios.commons.services{CommonServiceImpl.java[CommonServiceImpl" modifiers="1" timestamp="1602731927000"/>
+<typeInfo handle="=microservicios-cursos/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;mx.com.kene.microservicios.app.cursos.services{CursoService.java[CursoService" modifiers="513" timestamp="1602769564000"/>
+</typeInfoHistroy>
