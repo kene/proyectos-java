@@ -1,0 +1,9 @@
+package mx.com.kene;
+
+@FunctionalInterface
+public interface MyInterface3 {
+
+	public abstract void method3(String name, int age) {
+		
+	}
+}

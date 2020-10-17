@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;personsName&apos; from expression &apos;ReferenceToInstanceMethodInLambda.getPersonsName(persons,Person::getName)&apos;&#x0A;- Original project: &apos;ReferenceToInstanceMethodInLambda&apos;&#x0A;- Variable name: &apos;personsName&apos;&#x0A;- Destination method: &apos;mx.com.kene.client.ReferenceToInstanceMethodInLambda.main()&apos;&#x0A;- Variable expression: &apos;ReferenceToInstanceMethodInLambda.getPersonsName(persons,Person::getName)&apos;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;personsName&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;mx.com.kene.client{ReferenceToInstanceMethodInLambda.java" name="personsName" replace="true" selection="457 75" stamp="1579462226636" varType="false" version="1.0"/>
+</session>

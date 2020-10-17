@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private static void createThreadUsingLamda()&apos; from &apos;mx.com.kene.model.ClientTest.main()&apos; to &apos;mx.com.kene.model.ClientTest&apos;&#x0A;- Original project: &apos;LamdaProject_1&apos;&#x0A;- Method name: &apos;createThreadUsingLamda&apos;&#x0A;- Destination type: &apos;mx.com.kene.model.ClientTest&apos;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;createThreadUsingLamda&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;mx.com.kene.model{ClientTest.java" name="createThreadUsingLamda" replace="false" selection="99 94" stamp="1579316845583" version="1.0" visibility="2"/>
+</session>

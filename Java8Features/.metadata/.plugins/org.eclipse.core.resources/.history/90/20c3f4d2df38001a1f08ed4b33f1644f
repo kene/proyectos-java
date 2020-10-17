@@ -1,0 +1,19 @@
+package mx.com.kene.myinterface;
+
+import java.util.Collections;
+import java.util.List;
+
+import mx.com.kene.model.Student;
+
+public interface MyInterface {
+	
+	default public List<Student> sortStudents(List<Student> students){
+		Collections.sort(students);
+		return students;
+	}
+	
+	static public void greet(String name) {
+		System.out.println("Welcome " + name);
+	}
+
+}

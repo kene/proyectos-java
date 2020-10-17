@@ -1,0 +1,12 @@
+package mx.com.kene;
+
+public class ClientTest {
+
+	public static void main(String[] args) {
+		MyInterface1 myInterface1 = ()-> {
+				System.out.println("This methods executes using lambda");
+			
+		};
+	}
+
+}

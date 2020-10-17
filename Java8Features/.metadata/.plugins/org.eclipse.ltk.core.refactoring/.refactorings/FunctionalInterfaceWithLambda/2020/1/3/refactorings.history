@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private static void createThreadUsingAnonymousClass()&apos; from &apos;mx.com.kene.ClientTest.main()&apos; to &apos;mx.com.kene.ClientTest&apos;&#x0A;- Original project: &apos;FunctionalInterfaceWithLamda&apos;&#x0A;- Method name: &apos;createThreadUsingAnonymousClass&apos;&#x0A;- Destination type: &apos;mx.com.kene.ClientTest&apos;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;createThreadUsingAnonymousClass&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;mx.com.kene{ClientTest.java" name="createThreadUsingAnonymousClass" replace="false" selection="91 190" stamp="1579239877826" version="1.0" visibility="2"/>
+</session>

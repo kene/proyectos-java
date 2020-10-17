@@ -1,0 +1,33 @@
+package mx.com.kene;
+
+public class ClientTest {
+
+	public static void main(String[] args) {
+//		createThreadUsingAnonymousClass();
+		createThreadUsingLamdaExpression();
+	}
+
+	private static void createThreadUsingLamdaExpression() {
+		Runnable r = () -> {
+			System.out.println("My Task is executing..");
+
+		};
+
+		Thread thread = new Thread(r);
+		thread.start();
+	}
+
+	private static void createThreadUsingAnonymousClass() {
+		Runnable r = new Runnable() {
+
+			@Override
+			public void run() {
+				System.out.println("My Task is executing..");
+
+			}
+		};
+
+		Thread thread = new Thread(r);
+		thread.start();
+	}
+}

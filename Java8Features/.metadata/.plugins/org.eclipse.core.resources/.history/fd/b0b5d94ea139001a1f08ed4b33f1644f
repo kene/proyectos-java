@@ -1,0 +1,15 @@
+package mx.com.kene;
+
+public class ClientTest {
+
+	public static void main(String[] args) {
+		MyInterface1 myInterface1 = new MyInterface1() {
+			
+			@Override
+			public void method1() {
+				System.out.println("method1");
+			}
+		};
+	}
+
+}

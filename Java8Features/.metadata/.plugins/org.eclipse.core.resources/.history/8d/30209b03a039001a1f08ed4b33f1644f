@@ -1,0 +1,29 @@
+package mx.com.kene.model;
+
+public class ClientTest {
+
+	public static void main(String[] args) {
+		createThreadWithoutLamda();
+		createThreadUsingLamda();
+		
+	}
+
+	private static void createThreadUsingLamda() {
+		Runnable r = new Runnable() {
+			
+			@Override
+			public void run() {
+				System.out.println("My task is executing...");
+				
+			}
+		};
+	}
+
+	private static void createThreadWithoutLamda() {
+		MyThread myThread = new MyThread();
+		
+		Thread thread = new Thread(myThread);
+		thread.run();
+	}
+
+}

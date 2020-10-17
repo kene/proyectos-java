@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private static Runnable myRun()&apos; from &apos;mx.com.kene.client.ClientTest.main()&apos; to &apos;mx.com.kene.client.ClientTest&apos;&#x0A;- Original project: &apos;MethodReferenceWithStaticMethod&apos;&#x0A;- Method name: &apos;myRun&apos;&#x0A;- Destination type: &apos;mx.com.kene.client.ClientTest&apos;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;myRun&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;mx.com.kene.client{ClientTest.java" name="myRun" replace="false" selection="262 65" stamp="1579460364722" version="1.0" visibility="2"/>
+</session>

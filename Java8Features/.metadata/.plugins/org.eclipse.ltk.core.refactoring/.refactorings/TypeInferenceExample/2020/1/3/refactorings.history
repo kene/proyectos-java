@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;compare&apos; from expression &apos;myComparator.compare(40,30)&apos;&#x0A;- Original project: &apos;TypeInferenceExample&apos;&#x0A;- Variable name: &apos;compare&apos;&#x0A;- Destination method: &apos;mx.com.kene.test.Test.main()&apos;&#x0A;- Variable expression: &apos;myComparator.compare(40,30)&apos;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;compare&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;mx.com.kene.test{Test.java" name="compare" replace="true" selection="143 29" stamp="1579448684476" varType="false" version="1.0"/>
+</session>

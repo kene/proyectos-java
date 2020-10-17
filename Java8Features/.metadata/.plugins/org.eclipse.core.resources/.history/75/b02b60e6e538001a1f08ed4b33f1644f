@@ -1,0 +1,5 @@
+package mx.com.kene;
+
+public class Welcome implements I1, I2 {
+
+}

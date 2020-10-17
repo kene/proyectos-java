@@ -1,0 +1,11 @@
+package mx.com.kene;
+
+
+@FunctionalInterface
+public interface MyInterface2 extends MyInterface1{
+	
+	default public void method1() {
+		System.out.println("Default method in functional interface");
+	}
+
+}

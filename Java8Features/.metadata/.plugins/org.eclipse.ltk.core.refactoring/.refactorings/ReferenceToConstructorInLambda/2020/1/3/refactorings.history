@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;findSquareRoots&apos; from expression &apos;ClientTest.findSquareRoots(numbers,Integer::new)&apos;&#x0A;- Original project: &apos;ReferenceToConstructorInLambda&apos;&#x0A;- Variable name: &apos;findSquareRoots&apos;&#x0A;- Destination method: &apos;mx.com.kene.client.ClientTest.main()&apos;&#x0A;- Variable expression: &apos;ClientTest.findSquareRoots(numbers,Integer::new)&apos;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;findSquareRoots&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;mx.com.kene.client{ClientTest.java" name="findSquareRoots" replace="true" selection="378 50" stamp="1579461048805" varType="false" version="1.0"/>
+</session>

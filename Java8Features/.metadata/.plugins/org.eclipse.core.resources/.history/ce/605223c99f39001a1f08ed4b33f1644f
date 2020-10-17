@@ -1,0 +1,17 @@
+package mx.com.kene.model;
+
+public class ClientTest {
+
+	public static void main(String[] args) {
+		createThreadUsingLamda();
+		
+	}
+
+	private static void createThreadUsingLamda() {
+		MyThread myThread = new MyThread();
+		
+		Thread thread = new Thread(myThread);
+		thread.run();
+	}
+
+}

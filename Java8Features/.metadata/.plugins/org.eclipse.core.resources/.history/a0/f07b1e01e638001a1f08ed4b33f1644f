@@ -1,0 +1,5 @@
+package mx.com.kene;
+
+public interface I1 {
+
+}
