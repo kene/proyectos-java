@@ -1,0 +1,9 @@
+
+
+section.main {
+    background: url(../site_images/mountains.svg),linear-gradient(135deg,#1f4e69 0,#164058 100%);
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 140px 0 160px 0;
+}
